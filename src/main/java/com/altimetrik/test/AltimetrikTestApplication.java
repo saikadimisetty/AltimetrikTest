@@ -1,10 +1,10 @@
-package com.axiata.test;
+package com.altimetrik.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
-public class AxiataTestApplication {
+public class AltimetrikTestApplication {
   public static void main(String[] args) {
-    SpringApplication.run(AxiataTestApplication.class, args);
+    SpringApplication.run(AltimetrikTestApplication.class, args);
   }
 }
